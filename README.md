@@ -1,5 +1,6 @@
 # block_breaker
 Game where you bounce a ball off a platform and break blocks
+
 Module used: Pygame
 
 Controls: Press 'a' and 'd' to move left and right respectively. Press space to launch the ball.
